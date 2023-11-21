@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nurahmad Sollih
-- 👀 I’m interested in Code
-- 🌱 I’m currently learning About Code
-- 💞️ I’m looking to collaborate on Magelang, Central Java
+- 👀 I’m interested in Anime, Music, And singing
+- 🌱 I’m currently learning About Pythob
 - 📫 How to reach me Talk With Me
 
 <!---
