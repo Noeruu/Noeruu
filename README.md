@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nurahmad Sollih
 - 👀 I’m interested in Anime, Music, And singing
-- 🌱 I’m currently learning About Pythob
+- 🌱 I’m currently learning About Python
 - 📫 How to reach me Talk With Me
 
 <!---
